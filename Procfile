@@ -1,1 +1,1 @@
-web: gunicorn  OTP_verification.wsgi
+web: gunicorn  OTP_Verification.wsgi --log-file -
